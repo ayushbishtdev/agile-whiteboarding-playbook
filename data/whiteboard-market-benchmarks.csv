@@ -1,0 +1,7 @@
+Tool,Best_For,Core_Strength,Primary_Weakness,Jira_Integration_Type,Open_Source
+FigJam,Sprint Retrospectives,Raw speed and zero onboarding,Lacks depth for massive architectural diagrams,Standard / Manual Sync,No
+Miro,PI Planning,Massive enterprise scale and feature breadth,High per-seat enterprise licensing costs,Two-way Sync,No
+Mural,Strict Agile Ceremonies,Structured facilitation and granular permissions,Requires heavier onboarding for new teams,Deep Two-way Sync,No
+Microsoft Whiteboard,Budget-constrained teams,Zero extra cost for M365 organizations,Lacks specialist facilitation nuances,Limited,No
+Excalidraw,Autonomous Dev Teams,Extremely lightweight and fast,Lacks enterprise compliance tracking,None native,Yes
+tldraw,Basic standups,Fast sticky-note and diagramming capabilities,No advanced enterprise frameworks,None native,Yes
